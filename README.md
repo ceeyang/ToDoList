@@ -4,9 +4,12 @@ Make It Better!
 
     Do one thing and do it well.
 
+## About
+- [个人简历][000]
+- [个人博客][001]
+
 
 ## Career planning
-
 
 
 ## Recently
@@ -43,3 +46,8 @@ Make It Better!
 - [ ] 熟悉 9.0 App 源码以业务;
 - [ ] 熟悉 iOS Runtime 机制;
 - [x] 写一个项目自动打包脚本
+
+
+
+[000]:https://github.com/ceeyang/Resume
+[001]:http://ceeyang.com
