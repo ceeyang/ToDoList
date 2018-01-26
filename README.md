@@ -2,13 +2,15 @@
 
 Make It Better!
 
-    纵然万劫不复，纵然相思入骨，我也只愿你，眉眼如初，风华如故。
+    Do one thing and do it well.
 
 
 ## Career planning
 
+
+
 ## Recently
-- [ ] 更新博客，不要放弃；
+- [x] 更新博客，不要放弃；
 - [ ] 正则表达式；
 - [ ] 写一篇'Mac 使用指南';
 - [ ] iPad 练习钢琴曲<天空之城>
@@ -29,14 +31,15 @@ Make It Better!
 - [x] Vue微信项目开发；
 
 ### Dec.
-- [ ] 坚持锻炼;
-- [ ] 看完 JavaScript 书;
+- [x] 坚持锻炼;
+- [x] 看完 JavaScript 书;
 - [x] 微信项目开发;
 
 ## Year 2018
 ### Jan.
 - [ ] 报驾校;
-- [ ] 更新简历;
+- [x] 更新简历;
 - [ ] 拟定自己的职业规划;
 - [ ] 熟悉 9.0 App 源码以业务;
 - [ ] 熟悉 iOS Runtime 机制;
+- [x] 写一个项目自动打包脚本
